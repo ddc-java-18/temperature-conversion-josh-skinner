@@ -11,7 +11,7 @@ public class TemperatureConverter {
       } catch (IllegalArgumentException e) {
         double value = Double.parseDouble(arg);
         double convertedValue = convert(value);
-        // TODO Convert using current mode.
+        // TODO: Display input and converted value.
       }
 
     }
