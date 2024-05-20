@@ -21,7 +21,6 @@ public class TemperatureConverter {
 
   private static double convert(double value) {
     // TODO: 5/20/24 Perform conversion with value and mode; return result
-
-}
+  }
 
 }
